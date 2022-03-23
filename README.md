@@ -53,7 +53,7 @@ Want more? Check on [my website...](http://damianomariarecupero.hostinggratis.it
 
 ### Other
 <div align="center">
-
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
