@@ -12,9 +12,9 @@
 ## 📦 My Projects
 | Project | Description  | Status | Links  | 
 |--------------|---|---|---|
-| [**Personal Website**](http://damianomariarecupero.hostinggratis.it/) |  My personal website |  WIP | [![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](http://damianomariarecupero.hostinggratis.it/) [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/Lory1990/lory1990.github.io) |
-| [**Barrier-free MAPS**](https://github.com/damianomariarecupero/barrier_free_maps)             |  Web application based on the rainbow principle of computer ethics  |  WIP |[![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://github.com/damianomariarecupero/barrier_free_maps) [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://barrier-free-maps.firebaseapp.com/)|
-| [**Social Balilla**](http://damianomariarecupero.hostinggratis.it/SocialBalilla.pdf)             | An idea born in the context of the internship at The FabLab and approved in a project in collaboration with the Training School of the Chamber of Commerce of Bergamo.  |  WIP |[![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](http://damianomariarecupero.hostinggratis.it/SocialBalilla.pdf) [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](http://damianomariarecupero.hostinggratis.it/SocialBalilla.pdf)   |
+| [**Personal Website**](http://damianomariarecupero.hostinggratis.it/) |  My personal website |  WIP | [![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](http://damianomariarecupero.hostinggratis.it/) |
+| [**Barrier-free MAPS**](https://github.com/damianomariarecupero/barrier_free_maps)             |  Web application based on the rainbow principle of computer ethics  |  WIP |[![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://barrier-free-maps.firebaseapp.com/) [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/damianomariarecupero/barrier_free_maps)|
+| [**Social Balilla**](http://damianomariarecupero.hostinggratis.it/SocialBalilla.pdf)             | An idea born in the context of the internship at The FabLab and approved in a project in collaboration with the Training School of the Chamber of Commerce of Bergamo.  |  WIP |[![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](http://damianomariarecupero.hostinggratis.it/SocialBalilla.pdf)    |
 
 
 
@@ -44,7 +44,6 @@ Want more? Check on [my website...](http://damianomariarecupero.hostinggratis.it
 ### Other
 <div align="center">
 
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 </div>
 
