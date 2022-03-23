@@ -5,7 +5,11 @@
 
 <div align="justify">
 
-I am involved in the study and analysis of vulnerabilities with respect to the  communication protocols of the TCP/IP  stack and with respect to the vulnerabilities of programming languages. II like experimenting in the IoT field, especially when I can give a new purpose and use to objects that are considered retro. I would like to increase my knowledge about the development of communication protocols and the different techniques of Penetration Testing, starting by "fielding" my knowledge.
+My university studies are oriented towards the analysis of vulnerabilities with respect to the different communication protocols within telecommunication systems and the study of different paradigms for the design of secure software.
+
+I like experimenting in the IoT field, especially when I can give a new purpose and use to objects considered retro.
+
+I would like to deepen my knowledge on the development of communication protocols, starting from "fielding" my knowledge in an application context.
 
 </div>
   
