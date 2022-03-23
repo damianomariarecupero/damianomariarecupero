@@ -3,10 +3,14 @@
 
 🌱 I’m currently learning:
 
-<div align="center">
+<div align="justify">
 
 I am involved in the study and analysis of vulnerabilities with respect to the  communication protocols of the TCP/IP  stack and with respect to the vulnerabilities of programming languages. II like experimenting in the IoT field, especially when I can give a new purpose and use to objects that are considered retro. I would like to increase my knowledge about the development of communication protocols and the different techniques of Penetration Testing, starting by "fielding" my knowledge.
 
+</div>
+  
+<div align="center">
+  
 [![](https://img.shields.io/badge/-Linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2867B2)](https://www.linkedin.com/in/damiano-maria-recupero-26b336172/)
 
 </div>
